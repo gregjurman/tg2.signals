@@ -1,0 +1,11 @@
+# use glob syntax.
+*.egg-info
+*.pyc
+*~
+*.swp
+*.rej
+tags
+dist
+build
+.hg*
+*.egg
